@@ -1,0 +1,1123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-09 01:18+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: settings.py:158
+msgid "Chinese Simplified"
+msgstr ""
+
+#: settings.py:160
+msgid "English"
+msgstr ""
+
+#: max_filters/templatetags/filters.py:32
+#: max_filters/templatetags/filters.py:50
+msgid "just now"
+msgstr "刚刚"
+
+#: max_filters/templatetags/filters.py:35
+#, python-format
+msgid "%d year ago"
+msgstr "%d年前"
+
+#: max_filters/templatetags/filters.py:35
+#, python-format
+msgid "%d years ago"
+msgstr "%d年前"
+
+#: max_filters/templatetags/filters.py:36
+#, python-format
+msgid "%d month ago"
+msgstr "%d个月前"
+
+#: max_filters/templatetags/filters.py:36
+#, python-format
+msgid "%d months ago"
+msgstr "%d个月前"
+
+#: max_filters/templatetags/filters.py:38
+#, python-format
+msgid "%d day ago"
+msgstr "%d天前"
+
+#: max_filters/templatetags/filters.py:38
+#, python-format
+msgid "%d days ago"
+msgstr "%d天前"
+
+#: max_filters/templatetags/filters.py:39
+#, python-format
+msgid "%d hour ago"
+msgstr "%d小时前"
+
+#: max_filters/templatetags/filters.py:39
+#, python-format
+msgid "%d hours ago"
+msgstr "%d小时前"
+
+#: max_filters/templatetags/filters.py:40
+#, python-format
+msgid "%d minute ago"
+msgstr "%d分钟前"
+
+#: max_filters/templatetags/filters.py:40
+#, python-format
+msgid "%d minutes ago"
+msgstr "%d分钟前"
+
+#: templates/activate_page.html:3 templates/bind.html:3
+#: templates/league_sign_up_home.html:3 templates/register.html:3
+#: templates/wait_activate.html:3
+msgid "Create an Account"
+msgstr "创建账号"
+
+#: templates/change_password.html:3 templates/change_password.html.py:16
+#: templates/setting_home.html:30
+msgid "Change Password"
+msgstr "修改密码"
+
+#: templates/change_password.html:61
+msgid "Old Password"
+msgstr "旧密码"
+
+#: templates/change_password.html:62
+msgid "New Password"
+msgstr "新密码"
+
+#: templates/change_password.html:63
+msgid "Re-enter New Password"
+msgstr "确认新密码"
+
+#: templates/dashboard.html:13 templates/dashboard_charts.html:146
+#: templates/dashboard_econ_items.html:27 templates/dashboard_hero.html:12
+#: templates/dashboard_match.html:13 templates/dashboard_steam_friends.html:14
+msgid "Overview"
+msgstr "综合统计"
+
+#: templates/dashboard.html:14 templates/dashboard_charts.html:147
+#: templates/dashboard_econ_items.html:28 templates/dashboard_hero.html:13
+#: templates/dashboard_match.html:14 templates/dashboard_steam_friends.html:15
+msgid "Heroes Data"
+msgstr "英雄统计"
+
+#: templates/dashboard.html:15 templates/dashboard_charts.html:148
+#: templates/dashboard_econ_items.html:29 templates/dashboard_hero.html:14
+#: templates/dashboard_match.html:15 templates/dashboard_steam_friends.html:16
+msgid "Matches Data"
+msgstr "比赛统计"
+
+#: templates/dashboard.html:16 templates/dashboard_charts.html:35
+#: templates/dashboard_charts.html.py:37 templates/dashboard_charts.html:149
+#: templates/dashboard_econ_items.html:30 templates/dashboard_hero.html:15
+#: templates/dashboard_match.html:16 templates/dashboard_steam_friends.html:17
+msgid "Trends Charts"
+msgstr "趋势图"
+
+#: templates/dashboard.html:17 templates/dashboard_charts.html:150
+#: templates/dashboard_econ_items.html:31 templates/dashboard_hero.html:16
+#: templates/dashboard_match.html:17 templates/dashboard_steam_friends.html:18
+msgid "Cosmetics Items"
+msgstr "饰品"
+
+#: templates/dashboard.html:21
+msgid "Most Played Heroes"
+msgstr "常用英雄"
+
+#: templates/dashboard.html:24 templates/dashboard.html.py:64
+#: templates/dashboard.html:120 templates/dashboard_hero.html:21
+#: templates/dashboard_match.html:21 templates/dashboard_match.html.py:31
+#: templates/hero_detail.html:95 templates/hero_detail.html.py:144
+#: templates/hero_stat.html:10 templates/hero_stat.html.py:38
+#: templates/hero_stat.html:64 templates/hero_stat.html.py:90
+#: templates/hero_stat.html:126 templates/hero_stat.html.py:152
+#: templates/item_detail.html:27
+msgid "Hero"
+msgstr "英雄"
+
+#: templates/dashboard.html:25 templates/dashboard_hero.html:22
+#: templates/hero_detail.html:22 templates/hero_detail.html.py:102
+#: templates/hero_detail.html:151 templates/hero_stat.html:12
+#: templates/hero_stat.html.py:39
+msgid "Matches Played"
+msgstr "使用次数"
+
+#: templates/dashboard.html:26 templates/dashboard.html.py:218
+#: templates/dashboard.html:232 templates/dashboard.html.py:246
+#: templates/dashboard.html:260 templates/dashboard.html.py:274
+#: templates/dashboard.html:322 templates/dashboard.html.py:337
+#: templates/dashboard.html:351 templates/dashboard.html.py:365
+#: templates/dashboard_charts.html:37 templates/dashboard_charts.html.py:63
+#: templates/dashboard_charts.html:84 templates/dashboard_charts.html:122
+#: templates/dashboard_charts.html:154 templates/dashboard_hero.html:23
+#: templates/hero_detail.html:23 templates/hero_detail.html.py:43
+#: templates/hero_detail.html:101 templates/hero_detail.html.py:150
+#: templates/hero_detail.html:196 templates/hero_head.html:19
+#: templates/hero_stat.html:11 templates/hero_stat.html.py:40
+#: templates/item_detail.html:29 templates/item_head.html:23
+#: templates/item_stat.html:13 templates/item_stat.html.py:41
+msgid "Win Rate"
+msgstr "胜率"
+
+#: templates/dashboard.html:28 templates/dashboard_charts.html:82
+#: templates/dashboard_charts.html:119
+msgid "Avg. KDA"
+msgstr "平均KDA"
+
+#: templates/dashboard.html:61
+msgid "Latest Matches"
+msgstr "最近比赛"
+
+#: templates/dashboard.html:65 templates/dashboard.html.py:118
+#: templates/dashboard.html:215 templates/dashboard.html.py:225
+#: templates/dashboard.html:229 templates/dashboard.html.py:239
+#: templates/dashboard.html:243 templates/dashboard.html.py:253
+#: templates/dashboard.html:257 templates/dashboard.html.py:271
+#: templates/dashboard.html:319 templates/dashboard.html.py:334
+#: templates/dashboard.html:348 templates/dashboard.html.py:362
+#: templates/dashboard_charts.html:76 templates/dashboard_match.html:32
+#: templates/match_detail.html:14 templates/match_list.html:9
+msgid "Match"
+msgstr "比赛"
+
+#: templates/dashboard.html:66 templates/dashboard_charts.html:77
+#: templates/dashboard_match.html:33 templates/match_detail.html:23
+#: templates/match_list.html:13
+msgid "Time Finished"
+msgstr "结束时间"
+
+#: templates/dashboard.html:67 templates/dashboard.html.py:119
+#: templates/dashboard_match.html:34
+msgid "Result"
+msgstr "结果"
+
+#: templates/dashboard.html:83 templates/dashboard_match.html:45
+#: templates/filter.html:47
+msgid "Ranked Match"
+msgstr "天梯匹配"
+
+#: templates/dashboard.html:86 templates/dashboard_match.html:46
+#: templates/filter.html:48
+msgid "Normal Match"
+msgstr "普通匹配"
+
+#: templates/dashboard.html:114
+msgid "Records"
+msgstr "最高纪录"
+
+#: templates/dashboard.html:117
+msgid "Record Type"
+msgstr "类型"
+
+#: templates/dashboard.html:121
+msgid "Record"
+msgstr "纪录"
+
+#: templates/dashboard.html:210
+msgid "All Matches"
+msgstr "全部比赛"
+
+#: templates/dashboard.html:267 templates/filter.html:37
+#: templates/filter.html.py:38 templates/match_head.html:19
+msgid "ProMatches"
+msgstr "职业比赛"
+
+#: templates/dashboard.html:315 templates/dashboard.html.py:330
+#: templates/dashboard.html:344 templates/dashboard.html.py:358
+msgid "Ranked Matches"
+msgstr "天梯比赛"
+
+#: templates/dashboard.html:378
+msgid "Longest Winning Streak"
+msgstr "最高连胜场数"
+
+#: templates/dashboard.html:386
+msgid "Longest Losing Streak"
+msgstr "最高连败场数"
+
+#: templates/dashboard_charts.html:35 templates/dashboard_charts.html.py:37
+msgid "Latest 100 Matches"
+msgstr "最近100场比赛"
+
+#: templates/dashboard_charts.html:89
+msgid "Click to Detailed Information"
+msgstr "点击查看比赛详细信息"
+
+#: templates/dashboard_hero.html:18
+msgid "Hero Stats"
+msgstr "英雄统计 (点击查看此英雄的所有比赛)"
+
+#: templates/dashboard_hero.html:25
+msgid "All Players' Avg. KDA"
+msgstr "所有玩家平均KDA"
+
+#: templates/dashboard_hero.html:26 templates/match_detail.html:66
+#: templates/match_detail.html.py:128
+msgid "GPM"
+msgstr "金钱/分钟"
+
+#: templates/dashboard_hero.html:27 templates/match_detail.html:65
+#: templates/match_detail.html.py:127
+msgid "XPM"
+msgstr "经验/分钟"
+
+#: templates/dashboard_hero.html:67
+msgid "Unused Heroes"
+msgstr "未使用的英雄 (点击有详细的使用介绍)"
+
+#: templates/dashboard_match.html:22 templates/hero_list.html:35
+msgid "All Heroes"
+msgstr "全部英雄"
+
+#: templates/dashboard_match.html:28
+msgid "Match Stats"
+msgstr "比赛统计 (点击查看比赛详细信息)"
+
+#: templates/dashboard_match.html:37 templates/hero_detail.html:35
+#: templates/item_head.html:3 templates/match_detail.html:69
+#: templates/match_detail.html.py:131 templates/search_result.html:39
+#: templates/summary.html:26 templates/templete.html:89
+#: templates/templete.html.py:93
+msgid "Items"
+msgstr "物品"
+
+#: templates/dashboard_steam_friends.html:22
+msgid "Update Friends"
+msgstr "更新好友"
+
+#: templates/dashboard_steam_friends.html:24
+msgid "Friends"
+msgstr "好友"
+
+#: templates/dashboard_steam_friends.html:47
+msgid "Time Since Friend:"
+msgstr "建立好友关系时间:"
+
+#: templates/dashboard_steam_friends.html:47
+msgid "Time of Creating Steam Account:"
+msgstr "创建Steam账号时间:"
+
+#: templates/dashboard_steam_friends.html:52
+msgid "He or She uses "
+msgstr "他/她也使用"
+
+#: templates/dashboard_steam_friends.html:54
+msgid "He or She does not use "
+msgstr "他/她未使用"
+
+#: templates/dashboard_steam_friends.html:54
+msgid "Introduce Dotamax to him or her"
+msgstr "快通知他/她吧"
+
+#: templates/filter.html:11
+msgid "Date and Servers"
+msgstr "时间和区域"
+
+#: templates/filter.html:13 templates/player_stat.html:54
+msgid "This Month"
+msgstr "本月数据"
+
+#: templates/filter.html:14
+msgid "This Week"
+msgstr "本周数据"
+
+#: templates/filter.html:15 templates/filter.html.py:16
+#: templates/filter.html:17 templates/filter.html.py:18
+#: templates/filter.html:19 templates/filter.html.py:20
+#: templates/filter.html:21
+msgid "Patch"
+msgstr "版本数据"
+
+#: templates/filter.html:22
+msgid "All Time"
+msgstr "全部数据"
+
+#: templates/filter.html:28
+msgid "All Servers"
+msgstr "全部服务器"
+
+#: templates/filter.html:29 views/utils.py:477 views/utils.py:478
+#: views/utils.py:479 views/utils.py:480
+msgid "China"
+msgstr "中国服务器"
+
+#: templates/filter.html:30
+msgid "Others"
+msgstr "国外服务器"
+
+#: templates/filter.html:35
+msgid "Skills"
+msgstr "Skills"
+
+#: templates/filter.html:36
+msgid "All Skills"
+msgstr "全部分段"
+
+#: templates/filter.html:45
+msgid "Lobby Types"
+msgstr "匹配方式"
+
+#: templates/filter.html:46
+msgid "All Match"
+msgstr "全部比赛"
+
+#: templates/hero_detail.html:34
+msgid "Ability Builds"
+msgstr "技能加点"
+
+#: templates/hero_detail.html:36
+msgid "Matchups"
+msgstr "对手英雄分析"
+
+#: templates/hero_detail.html:37
+msgid "Teammates"
+msgstr "队友英雄分析"
+
+#: templates/hero_detail.html:43 templates/match_detail.html:176
+#: templates/match_detail.html.py:200
+msgid "Builds"
+msgstr "技能加点"
+
+#: templates/hero_detail.html:43
+msgid "Build Rate"
+msgstr "使用率"
+
+#: templates/hero_detail.html:96
+msgid "Anti Index"
+msgstr "克制指数"
+
+#: templates/hero_detail.html:145
+msgid "Cooperation Index"
+msgstr "配合指数"
+
+#: templates/hero_detail.html:194 templates/item_stat.html:12
+#: templates/item_stat.html.py:39 templates/item_stat.html:67
+#: templates/item_stat.html.py:95 templates/item_stat.html:132
+msgid "Item"
+msgstr "物品"
+
+#: templates/hero_detail.html:195 templates/item_detail.html:28
+#: templates/item_stat.html:14 templates/item_stat.html.py:40
+msgid "Times Used"
+msgstr "使用次数"
+
+#: templates/hero_head.html:3 templates/match_detail.html:53
+#: templates/match_detail.html.py:115 templates/search_result.html:31
+#: templates/templete.html:79 templates/templete.html.py:83
+msgid "Heroes"
+msgstr "英雄"
+
+#: templates/hero_head.html:12
+msgid "Hero List"
+msgstr "所有英雄"
+
+#: templates/hero_head.html:26 templates/item_head.html:15
+msgid "Most Played"
+msgstr "最多使用"
+
+#: templates/hero_head.html:33 templates/item_head.html:40
+msgid "Economy/Experience"
+msgstr "经济/经验"
+
+#: templates/hero_head.html:41 templates/item_head.html:32
+msgid "KDA"
+msgstr "KDA"
+
+#: templates/hero_head.html:49
+msgid "Last Hits"
+msgstr "正反补"
+
+#: templates/hero_head.html:56 templates/item_head.html:48
+msgid "Damage/Healing"
+msgstr "伤害/治疗"
+
+#: templates/hero_list.html:36
+msgid "Unused Heroes_"
+msgstr "未使用的英雄"
+
+#: templates/hero_list.html:37
+msgid "Used Heroes"
+msgstr "使用过的英雄"
+
+#: templates/hero_list.html:38
+msgid "Search Heroes:"
+msgstr "搜索英雄"
+
+#: templates/hero_list.html:48 templates/hero_list.html.py:64
+#: templates/hero_list.html:80
+msgid "Used:"
+msgstr "使用:"
+
+#: templates/hero_stat.html:65 templates/item_stat.html:68
+msgid "Economy Per Minute"
+msgstr "经济/分钟"
+
+#: templates/hero_stat.html:66 templates/item_stat.html:69
+msgid "Experience Per Minute"
+msgstr "经验/分钟"
+
+#: templates/hero_stat.html:92 templates/item_stat.html:97
+msgid "Kills"
+msgstr "击杀"
+
+#: templates/hero_stat.html:93 templates/item_stat.html:98
+msgid "Deaths"
+msgstr "死亡"
+
+#: templates/hero_stat.html:94 templates/item_stat.html:99
+msgid "Assists"
+msgstr "助攻"
+
+#: templates/hero_stat.html:127
+msgid "Last Hits / 10 Minutes "
+msgstr "正补/10分钟"
+
+#: templates/hero_stat.html:128
+msgid "Denies"
+msgstr "反补总数"
+
+#: templates/hero_stat.html:153 templates/item_stat.html:133
+msgid "Damage per Minute"
+msgstr "伤害/分钟"
+
+#: templates/hero_stat.html:154 templates/item_stat.html:134
+msgid "Healing per Minute"
+msgstr "治疗/分钟"
+
+#: templates/hero_stat.html:155
+msgid "Building Damage per Minute"
+msgstr "建筑伤害/分钟"
+
+#: templates/home.html:3 templates/templete.html:69
+#: templates/templete.html.py:73
+msgid "Home"
+msgstr "首页"
+
+#: templates/home.html:17
+msgid "All Shown"
+msgstr "已显示全部"
+
+#: templates/home.html:25 templates/search_result.html:19
+#: templates/share_history.html:30 templates/share_history.html.py:88
+msgid "Search for Players, Matches, Heroes, Items..."
+msgstr "输入国服昵称或数字ID"
+
+#: templates/home.html:26 templates/search_result.html:20
+#: templates/share_history.html:31 templates/share_history.html.py:89
+msgid "Search"
+msgstr "搜索"
+
+#: templates/home.html:32
+msgid "News"
+msgstr "News"
+
+#: templates/home.html:86
+msgid "More"
+msgstr "更多内容"
+
+#: templates/home.html:89
+msgid "Dota2 Online: "
+msgstr "Dota2全球在线: "
+
+#: templates/home.html:105
+msgid "Pro Matches"
+msgstr "职业比赛"
+
+#: templates/item_detail.html:14
+msgid "Price"
+msgstr "价格"
+
+#: templates/item_detail.html:85
+msgid "Builds From"
+msgstr "合成需要"
+
+#: templates/item_detail.html:97
+msgid "Builds Into"
+msgstr "可以合成"
+
+#: templates/ladder_head.html:3 templates/templete.html:119
+#: templates/templete.html.py:123
+msgid "Ladder"
+msgstr "天梯"
+
+#: templates/ladder_head.html:15 templates/ladder_list.html:8
+msgid "China Board"
+msgstr "国服天梯"
+
+#: templates/ladder_head.html:22 templates/ladder_list.html:17
+msgid "SE Asia Board"
+msgstr "东南亚天梯"
+
+#: templates/ladder_head.html:29 templates/ladder_list.html:11
+msgid "Americas Board"
+msgstr "美服天梯"
+
+#: templates/ladder_head.html:36 templates/ladder_list.html:14
+msgid "Europe Board"
+msgstr "欧服天梯"
+
+#: templates/ladder_list.html:28
+msgid "Rank"
+msgstr "排名"
+
+#: templates/ladder_list.html:29
+msgid "Rank Trend"
+msgstr "排名变化"
+
+#: templates/ladder_list.html:30
+msgid "Solo MMR"
+msgstr "单排积分"
+
+#: templates/ladder_list.html:31 templates/player_stat.html:11
+msgid "Player"
+msgstr "玩家"
+
+#: templates/ladder_list.html:32 templates/player_stat.html:14
+msgid "Team"
+msgstr "所属战队"
+
+#: templates/ladder_list.html:33
+msgid "Highest Rank"
+msgstr "最高排名"
+
+#: templates/ladder_list.html:34
+msgid "Highest MMR"
+msgstr "最高积分"
+
+#: templates/league_sign_up_home.html:20
+msgid "输入报名信息"
+msgstr ""
+
+#: templates/league_sign_up_home.html:24 templates/league_sign_up_home.html:58
+msgid "QQ"
+msgstr ""
+
+#: templates/league_sign_up_home.html:41
+#, fuzzy
+msgid "Have Registered"
+msgstr "注册"
+
+#: templates/league_sign_up_home.html:44
+msgid "Invalid Phone Num"
+msgstr ""
+
+#: templates/league_sign_up_home.html:47
+msgid "Invalid QQ Num"
+msgstr ""
+
+#: templates/league_sign_up_home.html:50
+msgid "Length of Team Name must be 2~16"
+msgstr ""
+
+#: templates/league_sign_up_home.html:53
+msgid "Team Name Exists"
+msgstr ""
+
+#: templates/league_sign_up_home.html:58 templates/league_sign_up_home.html:59
+#: templates/league_sign_up_home.html:60 templates/register.html:92
+msgid "Characters"
+msgstr "字符"
+
+#: templates/league_sign_up_home.html:59
+msgid "Phone"
+msgstr ""
+
+#: templates/league_sign_up_home.html:60
+#, fuzzy
+msgid "Team Name"
+msgstr "队友英雄分析"
+
+#: templates/league_sign_up_home.html:63
+msgid "提交报名信息"
+msgstr ""
+
+#: templates/league_sign_up_home.html:65
+msgid "修改报名信息"
+msgstr ""
+
+#: templates/live_head.html:3 templates/templete.html:129
+#: templates/templete.html.py:133
+msgid "Live"
+msgstr "直播"
+
+#: templates/login.html:3 templates/login.html.py:15 templates/login.html:44
+msgid "Login"
+msgstr "登陆"
+
+#: templates/login.html:41
+msgid "Forget Password"
+msgstr "忘记密码"
+
+#: templates/login.html:47
+msgid "Create Your Dotamax Account"
+msgstr "创建我的Dotamax账号"
+
+#: templates/match_detail.html:16 templates/match_detail.html.py:48
+#: templates/match_detail.html:176 templates/match_list.html:14
+#: views/match.py:175 views/match.py:209
+msgid "Radiant"
+msgstr "天辉"
+
+#: templates/match_detail.html:16 templates/match_detail.html.py:18
+msgid "Victory"
+msgstr "获胜"
+
+#: templates/match_detail.html:18 templates/match_detail.html.py:110
+#: templates/match_detail.html:200 templates/match_list.html:15
+#: views/match.py:177 views/match.py:212
+msgid "Dire"
+msgstr "夜魇"
+
+#: templates/match_detail.html:24
+msgid "Duration"
+msgstr "持续时间"
+
+#: templates/match_detail.html:25
+msgid "Region"
+msgstr "区域"
+
+#: templates/match_detail.html:26
+msgid "First Blood"
+msgstr "一血时间"
+
+#: templates/match_detail.html:27 templates/match_list.html:11
+msgid "Skill"
+msgstr "全部分段"
+
+#: templates/match_detail.html:28 templates/match_list.html:10
+msgid "Game Mode"
+msgstr "比赛模式"
+
+#: templates/match_detail.html:30
+msgid "League Title"
+msgstr "联赛名称"
+
+#: templates/match_detail.html:52 templates/match_detail.html.py:114
+#: templates/player_head.html:3 templates/search_result.html:55
+#: templates/templete.html:109 templates/templete.html.py:113
+msgid "Players"
+msgstr "玩家"
+
+#: templates/match_detail.html:62 templates/match_detail.html.py:63
+#: templates/match_detail.html:124 templates/match_detail.html.py:125
+msgid "Damage"
+msgstr "伤害"
+
+#: templates/match_detail.html:64 templates/match_detail.html.py:126
+msgid "LH/DN"
+msgstr "正/反补"
+
+#: templates/match_detail.html:67 templates/match_detail.html.py:129
+msgid "TD"
+msgstr "建筑伤害"
+
+#: templates/match_detail.html:68 templates/match_detail.html.py:130
+msgid "HH"
+msgstr "英雄治疗"
+
+#: templates/match_head.html:3 templates/search_result.html:47
+#: templates/summary.html:20 templates/templete.html:99
+#: templates/templete.html.py:103
+msgid "Matches"
+msgstr "比赛"
+
+#: templates/match_head.html:12
+msgid "Normal Matches"
+msgstr "普通比赛"
+
+#: templates/match_list.html:12
+msgid "Winner"
+msgstr "胜利方"
+
+#: templates/player_head.html:15
+msgid "Famous Players"
+msgstr "知名玩家"
+
+#: templates/player_head.html:22
+msgid "Player Stats"
+msgstr "在线统计"
+
+#: templates/player_stat.html:12
+msgid "Online Status"
+msgstr "在线状态"
+
+#: templates/player_stat.html:23
+msgid "Playing Dota2"
+msgstr "正在游戏"
+
+#: templates/player_stat.html:23
+msgid "Game"
+msgstr "比赛"
+
+#: templates/player_stat.html:23
+msgid "Offline"
+msgstr "未进行游戏"
+
+#: templates/player_stat.html:46
+msgid "Date"
+msgstr "时间"
+
+#: templates/player_stat.html:47
+msgid "Average Players"
+msgstr "平均在线"
+
+#: templates/player_stat.html:48 templates/player_stat.html.py:49
+msgid "Player Gain"
+msgstr "增长人数"
+
+#: templates/player_stat.html:50
+msgid "Peak number"
+msgstr "峰值在线"
+
+#: templates/profile.html:10
+msgid "Reg. Date"
+msgstr "注册时间"
+
+#: templates/profile.html:10
+msgid "Unknown"
+msgstr "未知"
+
+#: templates/register.html:92
+msgid "Username"
+msgstr "用户名"
+
+#: templates/register.html:93
+msgid "Password"
+msgstr "密码"
+
+#: templates/register.html:94
+msgid "Re-enter Password"
+msgstr "确认密码"
+
+#: templates/register.html:95
+msgid "Used for Verification"
+msgstr "用来接收发送验证邮件"
+
+#: templates/register.html:97
+msgid "Register"
+msgstr "注册"
+
+#: templates/search_result.html:28
+msgid "Search Result(s)"
+msgstr "搜索结果"
+
+#: templates/search_result.html:28 templates/search_result.html.py:62
+msgid "There is not your account"
+msgstr "找不到我的账号"
+
+#: templates/search_result.html:62
+msgid "Click Here"
+msgstr "点击这里"
+
+#: templates/search_result.html:71
+msgid "Pre Page"
+msgstr "前一页"
+
+#: templates/search_result.html:77
+msgid "Next Page"
+msgstr "后一页"
+
+#: templates/setting_home.html:3 templates/setting_home.html.py:16
+msgid "User Panel"
+msgstr "账号设置"
+
+#: templates/setting_home.html:19
+msgid "Rebind new Steam ID"
+msgstr "重新绑定Steam账号"
+
+#: templates/setting_home.html:25
+msgid "Resend Verification Email"
+msgstr "重新发送激活邮件 (邮箱未激活)"
+
+#: templates/share_history.html:3
+msgid "Enabling Public Match Data"
+msgstr "公开比赛数据"
+
+#: templates/status.html:3 templates/status.html.py:17
+msgid "Status"
+msgstr "状态"
+
+#: templates/summary.html:3 templates/summary.html.py:17
+msgid "Dotamax Stats: "
+msgstr "Dotamax 统计数据"
+
+#: templates/summary.html:23
+msgid "Dota2 Accounts"
+msgstr "Dota2 账号"
+
+#: templates/templete.html:14
+msgid "DOTA DOTA 2 Statistics Matches Live Dashboard"
+msgstr "DOTA2数据_DOTA2比赛_DOTA2直播_DOTA2天梯"
+
+#: templates/templete.html:140 templates/templete.html.py:144
+msgid "Exchange"
+msgstr "饰品交易"
+
+#: templates/templete.html:160 templates/templete.html.py:162
+msgid "Sign In"
+msgstr "登陆/注册"
+
+#: templates/templete.html:173
+msgid "Search for Players, Matches..."
+msgstr "搜索: 玩家,比赛,英雄,物品"
+
+#: templates/templete.html:201
+msgid "My Dashboard"
+msgstr "我的主页"
+
+#: templates/templete.html:205 templates/templete.html.py:207
+msgid "Messages"
+msgstr "消息"
+
+#: templates/templete.html:210
+msgid "Setting"
+msgstr "设置"
+
+#: templates/templete.html:211
+msgid "Sign Out"
+msgstr "登出"
+
+#: templates/templete.html:213
+msgid "Register or Sign In"
+msgstr "注册/登陆"
+
+#: templates/templete.html:227
+msgid "Contact"
+msgstr "商务合作"
+
+#: templates/templete.html:228
+msgid "Server Status"
+msgstr "服务器状态"
+
+#: templates/templete.html:229
+msgid "Change Logs"
+msgstr "更新日志"
+
+#: templates/templete.html:230
+msgid "Statistics"
+msgstr "统计数据"
+
+#: templates/templete.html:231
+msgid "FAQ"
+msgstr "常见问题"
+
+#: templates/templete.html:232
+msgid "Update My Data!"
+msgstr "录入数据"
+
+#: views/match.py:90 views/match.py:94 views/match.py:132 views/match.py:136
+msgid "Anonymous"
+msgstr "匿名玩家"
+
+#: views/match.py:262
+msgid " minutes"
+msgstr "分钟"
+
+#: views/match.py:262
+msgid "Less Than 1 Minute"
+msgstr "小于1分钟"
+
+#: views/player.py:273 views/player.py:535 views/player.py:643
+#: views/player.py:855
+msgid "Won"
+msgstr "胜利"
+
+#: views/player.py:273 views/player.py:537 views/player.py:645
+#: views/player.py:857
+msgid "Lost"
+msgstr "失败"
+
+#: views/player.py:775
+msgid "Most Kills"
+msgstr "最高击杀"
+
+#: views/player.py:776
+msgid "Most Deaths"
+msgstr "最高死亡"
+
+#: views/player.py:777
+msgid "Most Assists"
+msgstr "最高助攻"
+
+#: views/player.py:778
+msgid "Most Last Hits"
+msgstr "最高正补"
+
+#: views/player.py:779
+msgid "Most Denies"
+msgstr "最高反补"
+
+#: views/player.py:780
+msgid "Most Gold"
+msgstr "最高每分钟金钱"
+
+#: views/player.py:781
+msgid "Most Experience"
+msgstr "最高每分钟经验"
+
+#: views/player.py:782
+msgid "Most Hero Damage"
+msgstr "最高英雄伤害"
+
+#: views/player.py:783
+msgid "Most Tower Damage"
+msgstr "最高建筑伤害"
+
+#: views/player.py:784
+msgid "Most Hero Healing"
+msgstr "最高英雄治疗"
+
+#: views/utils.py:415 views/utils.py:425
+msgid "Processing..."
+msgstr "处理中..."
+
+#: views/utils.py:419
+msgid "Tournament"
+msgstr "职业"
+
+#: views/utils.py:429
+msgid "All Pick"
+msgstr "全阵营"
+
+#: views/utils.py:430
+msgid "Captain's Mode"
+msgstr "队长模式"
+
+#: views/utils.py:431
+msgid "Random Draft"
+msgstr "随机征召"
+
+#: views/utils.py:432
+msgid "Single Draft"
+msgstr "个别征召"
+
+#: views/utils.py:433
+msgid "All Random"
+msgstr "全部随机"
+
+#: views/utils.py:434
+msgid "Intro"
+msgstr "其他"
+
+#: views/utils.py:435
+msgid "Diretide"
+msgstr "夜魇暗潮"
+
+#: views/utils.py:436
+msgid "Reverse Captain's Mode"
+msgstr "其他"
+
+#: views/utils.py:437
+msgid "The Greeviling"
+msgstr "其他"
+
+#: views/utils.py:438
+msgid "Tutorial"
+msgstr "其他"
+
+#: views/utils.py:439
+msgid "Mid Only"
+msgstr "中单模式"
+
+#: views/utils.py:440
+msgid "Least Played"
+msgstr "生疏模式"
+
+#: views/utils.py:441
+msgid "New Player Pool"
+msgstr "英雄限定"
+
+#: views/utils.py:442
+msgid "Compendium Matchmaking"
+msgstr "其他"
+
+#: views/utils.py:443
+msgid "OMG"
+msgstr "OMG"
+
+#: views/utils.py:450 views/utils.py:451 views/utils.py:452
+msgid "US West"
+msgstr "美国西部"
+
+#: views/utils.py:453 views/utils.py:454
+msgid "US East"
+msgstr "美国东部"
+
+#: views/utils.py:455 views/utils.py:456 views/utils.py:457 views/utils.py:458
+#: views/utils.py:459 views/utils.py:460 views/utils.py:461 views/utils.py:462
+msgid "Europe West"
+msgstr "西欧"
+
+#: views/utils.py:463 views/utils.py:464 views/utils.py:465
+msgid "SE Asia"
+msgstr "东南亚"
+
+#: views/utils.py:466
+msgid "China ShangHai"
+msgstr "中国上海"
+
+#: views/utils.py:467
+msgid "Australia"
+msgstr "澳洲"
+
+#: views/utils.py:468 views/utils.py:469 views/utils.py:470
+msgid "Russia"
+msgstr "俄罗斯"
+
+#: views/utils.py:471
+msgid "Europe East"
+msgstr "东欧"
+
+#: views/utils.py:472 views/utils.py:473
+msgid "South America"
+msgstr "南美"
+
+#: views/utils.py:474 views/utils.py:475 views/utils.py:476
+msgid "South Africa"
+msgstr "南非"
+
+#: views/utils.py:503
+#, python-format
+msgid "%04d-%d-%d %02d:%02d:%02d"
+msgstr ""
+
+#~ msgid "IT4 Current Price Pool: "
+#~ msgstr "IT4 当前总奖金: "
+
+#~ msgid "League"
+#~ msgstr "职业比赛"
+
+#~ msgid "In Battle %%"
+#~ msgstr "参战率"
+
+#, fuzzy
+#~ msgid "Europe"
+#~ msgstr "西欧"
+
+#, fuzzy
+#~ msgid "Maches"
+#~ msgstr "比赛"
+
+#~ msgid "%d week ago"
+#~ msgstr "%d周前"
+
+#~ msgid "%d weeks ago"
+#~ msgstr "%d周前"
+
+#~ msgid "Skills Brackets"
+#~ msgstr "Skill"
